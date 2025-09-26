@@ -1,7 +1,10 @@
 <!doctype html>
 <html lang="sv">
-<head><meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sportportalen</title></head>
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Sportportalen</title>
+</head>
 <body>
   <h1>Sportportalen</h1>
   <p>Det funkar! (vi bygger ut senare)</p>
